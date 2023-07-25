@@ -1,2 +1,3 @@
-# projeto_seguranca
-Cadeira SGE/GPN/PGP
+Repositório para entregas relacionadas ao projeto conjunto das disciplinas SGE, GPN e PGP do curso de Sistemas de Informação da UFPE
+
+Notion do Projeto: https://www.notion.so/Projeto-Seguran-a-UFPE-f4b2dd07a984442ea6612505e09c605c
